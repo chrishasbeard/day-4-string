@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\bin\Debug\netcoreapp3.0\String Work In Class.exe
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\bin\Debug\netcoreapp3.0\String Work In Class.deps.json
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\bin\Debug\netcoreapp3.0\String Work In Class.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\bin\Debug\netcoreapp3.0\String Work In Class.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\bin\Debug\netcoreapp3.0\String Work In Class.dll
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\bin\Debug\netcoreapp3.0\String Work In Class.pdb
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\obj\Debug\netcoreapp3.0\String Work In Class.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\obj\Debug\netcoreapp3.0\String Work In Class.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\obj\Debug\netcoreapp3.0\String Work In Class.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\obj\Debug\netcoreapp3.0\String Work In Class.dll
+C:\Users\Holmes HQ\source\repos\String Work In Class\String Work In Class\obj\Debug\netcoreapp3.0\String Work In Class.pdb
